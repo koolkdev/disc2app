@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="v1.0">
+		<name>disc2app</name>
+		<coder>kooldev</coder>
+		<version>v1.0</version>
+		<release_date>20170211</release_date>
+		<url>https://github.com/koolkdev/disc2app</url>
+		<short_description>Wii U disc dumper</short_description>
+		<long_description>Dump disc content (.app/-h3/.tmd/.cert/.tik files) from a Wii U game disc.
+		
+		Make sure that a FAT32 SD card/USB device is inserted that has at least 23.3Gb free.
+		
+		The files will be dumped to /install/(DISC-NAME)/ folder, which can be installed by wupinstaller.
+		
+		Based on wudump and wud2app by FIX94.
+		</long_description>
+	</app>
